@@ -1,0 +1,17 @@
+.item-two {
+  border: 1px solid lightgray;
+  display: flex;
+}
+
+.row {
+  margin: 20px;
+}
+.btn-two {
+  background: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+.delete-icon {
+  height: 20px;
+}
